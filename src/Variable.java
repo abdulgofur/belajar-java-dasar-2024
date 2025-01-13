@@ -1,3 +1,5 @@
+package src;
+
 public class Variable {
     public static void main(String[] args) {
         String name;
@@ -6,7 +8,6 @@ public class Variable {
 
         name = firstName + " " + lastName;
         System.out.println(name);
-
 
     }
 }

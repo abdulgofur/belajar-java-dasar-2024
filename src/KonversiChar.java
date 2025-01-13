@@ -1,3 +1,5 @@
+package src;
+
 public class KonversiChar {
     public static void main(String[] args) {
         char E ='E';

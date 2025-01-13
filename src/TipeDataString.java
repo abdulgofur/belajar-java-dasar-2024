@@ -1,3 +1,5 @@
+package src;
+
 public class TipeDataString {
     public static void main(String[] args) {
         String firstName = "Mickey";
