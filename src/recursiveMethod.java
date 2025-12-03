@@ -27,6 +27,7 @@ public class recursiveMethod {
       return value * factorialRcursive(value -1);
     }
   }
+
   // contoh error penggunaan recursive
 //  static void loop(int value) {
 //    if(value == 0) {
